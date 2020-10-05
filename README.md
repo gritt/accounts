@@ -6,7 +6,7 @@ Very simple Accounts API written in Elixir.
  
 ###### ROADMAP
 
-- ✘︎ Create account
+- ︎☕️ Create account
 - ✘ OAuth2
 - ✘ Get account
 - ✘ Delete account

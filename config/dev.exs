@@ -2,9 +2,10 @@ use Mix.Config
 
 # Configure your database
 config :accounts, Accounts.Repo,
-  username: "postgres",
-  password: "postgres",
-  database: "accounts_dev",
+  username: "lagritt",
+  password: "",
+  database: "accounts",
+  port: 5432,
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
